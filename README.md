@@ -205,4 +205,4 @@ public Result delete(@RequestParam("id") String id) {
 
 <img width="1054" height="115" alt="链接" src="https://github.com/user-attachments/assets/9b3cde54-91d0-4bd5-ae9e-f023fe6f440c" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
