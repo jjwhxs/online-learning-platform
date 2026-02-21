@@ -200,9 +200,7 @@ public Result delete(@RequestParam("id") String id) {
 
 4）下载完毕后启动前端npm run serve，访问端口
 
-获取方式(可远程调试)
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1054" height="115" alt="链接" src="https://github.com/user-attachments/assets/9b3cde54-91d0-4bd5-ae9e-f023fe6f440c" />
+### 获取方式(可远程调试)
+访问链接：https://mbd.pub/o/bread/mbd-aJeVlpps
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
